@@ -7,9 +7,9 @@
  Hello! My name is spacefault and I'm a software developer, Nix nerd, Linux Sysadmin, and a wayland apologist (sorry!)
  
 🔭 I’m currently working on:
-- **[Caveman Linux](github.com/cavemandevs/caveman-linux)**, A Linux distribution aimed at making computing easier for beginners. 
-- **[spaceflake](github.com/spacefault/spaceflake)**, a Nix personal flake configuration
-- **[nixpkgs](github.com/NixOS/nixpkgs)**, the Nix packages repository
+- **[Caveman Linux](https://github.com/cavemandevs/caveman-linux)**, A Linux distribution aimed at making computing easier for beginners. 
+- **[spaceflake](https://github.com/spacefault/spaceflake)**, a Nix personal flake configuration
+- **[nixpkgs](https://github.com/NixOS/nixpkgs)**, the Nix packages repository
 
 🌱 Outside of programming, I like:
  - playing videogames 

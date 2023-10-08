@@ -33,6 +33,6 @@ coming soon!
 ---
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spacefault&show_icons=true&locale=en&layout=compact" alt="spacefault" /></p>  
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=spacefault&show_icons=true" alt="spacefault" /></p>
 
 

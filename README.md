@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hello, I'm spacefault!</h1>  
 <h3 align="center">A computer nerd interested in making new things</h3>  
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spacefault&label=Profile%20views&color=0e75b6&style=flat" alt="spacefault" /> </p>  
+
+---
   
  Hello! My name is spacefault and I'm a software developer, Nix nerd, Linux Sysadmin, and a wayland apologist (sorry!)
  

@@ -1,10 +1,11 @@
 
-<h1 align="center">👋 Hello, I'm spacefault!</h1>  
+<h1 align="center">👋 Hello, I'm Lily!</h1>  
+<h5 align="center">(also known as spacefault)</h5>
 <h3 align="center">A computer nerd interested in making new things</h3>  
 
----
+--- 
   
- Hello! My name is spacefault and I'm a software developer, Nix nerd, Linux Sysadmin, and a wayland apologist (sorry!)
+ Hello! My name is Lily and I'm a software developer, Nix nerd, Linux Sysadmin, and a wayland apologist (sorry!)
  
 🔭 I’m currently working on:
 - **[Caveman Linux](https://github.com/cavemandevs/caveman-linux)**, A Linux distribution aimed at making computing easier for beginners. 
@@ -20,6 +21,10 @@
 	 - and more!
 - going outside
 - talking to friends
+
+🤔 How did you get that username?
+
+It's a combination of the word "space" and segfault!
 
   
 <h3 align="center">Connect with me:</h3>

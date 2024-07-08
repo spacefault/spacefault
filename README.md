@@ -1,20 +1,17 @@
 
-<h1 align="center">👋 Hello, I'm Lily!</h1>  
+<h1 align="center">👋 Hello, I'm Lily! 🏳️‍⚧️</h1>  
 <h5 align="center">(also known as spacefault)</h5>
 <h3 align="center">A computer nerd interested in making new things</h3>  
 
 --- 
   
- Hello! My name is Lily and I'm a software developer, Nix nerd, Linux Sysadmin, and a wayland apologist (sorry!)
+ Hello! My name is Lily and I'm a software developer, Linux enthusiast, and a wayland apologist (sorry!)
  
 🔭 I’m currently working on:
-- **[Caveman Linux](https://github.com/cavemandevs/caveman-linux)**, A Linux distribution aimed at making computing easier for beginners. 
-- **[spaceflake](https://github.com/spacefault/spaceflake)**, a Nix personal flake configuration
-- **[nixpkgs](https://github.com/NixOS/nixpkgs)**, the Nix packages repository
+- random personal projects because it's summer :)
 
 🌱 Outside of programming, I like:
  - playing videogames 
-	 - Counter Strike
 	 - Stardew Valley
 	 - Celeste
 	 - Minecraft
@@ -33,7 +30,7 @@ coming soon!
 </p>  
   
 <h3 align="center">Languages and Tools:</h3>  
-<p align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nix" width="40" height="40"/> </a> </p>
+<p align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> </a> </p>
 
 ---
 
